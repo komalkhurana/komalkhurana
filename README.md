@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @komalkhurana
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning terraform
-- 💞️ I’m looking to collaborate with terraform experts
+- 💞️ I’m looking to collaborate with everyone out there!
 - 📫 How to reach me ...komalkhurana90@gmail.com
 
 <!---
